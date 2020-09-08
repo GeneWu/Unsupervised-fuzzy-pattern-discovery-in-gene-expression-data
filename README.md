@@ -6,7 +6,7 @@ Link to paper: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471
 
 
 The original colon-cancer data set: http://genomics-pubs.princeton.edu/oncology/affydata/index.html
-(You can also find the underlying files in the /data/alon/ in this repository.)
+(You can also find the underlying files in the /data/colon_cancer/ in this repository.)
 
 Top 10 patterns of colon cancer data set: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-S5-S5/figures/3
 
